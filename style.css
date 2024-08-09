@@ -1,0 +1,188 @@
+.bandeira{
+    width: 600px;
+    height: 420px;
+    border: 1px solid black;
+    display: block;
+    float: left;
+    margin: 5px;
+}
+.col3{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+}
+.col3novo{
+    width: 200px;
+    height: 420px;
+    display: block;
+    float: left;
+    position: relative;
+    top: -420px;
+}
+.lin3{
+    width: 600px;
+    height: 140px;
+    display: block;
+    float: left;
+}
+.bola{
+    width: 250px;
+    height: 250px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 175px;
+    margin-top: 80px;
+}
+.bola1{
+    width: 150px;
+    height: 150px;
+    display: block;
+    float: left;
+    border-radius: 100%;
+    margin-left: 175px;
+    margin-top: 80px;
+    position: relative;
+    top: -156px;
+    left: 38px;
+}
+.quadrado{
+    width: 300px;
+    height: 210px;
+    display: block;
+    float: left;
+}
+.quadrado2{
+    width: 300px;
+    height: 210px;
+    display: block;
+    float: left;
+}
+.lisHor{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.lisHor2{
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.lisHor4  {
+    width: 600px;
+    height: 100px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.lisHorMetade{
+    border-top:33px solid white;
+    border-bottom: 33px solid white;
+    width: 600px;
+    height: 33px;
+    display: block;
+    position: relative;
+    top: 150px;
+}
+.lisHorMet{
+    width: 600px;
+    height: 34px;
+    display: block;
+    position: relative;
+    top: -336px;
+}
+.lisVertMetade{
+    border-left:33px solid white;
+    border-right: 33px solid white;
+    width: 30px;
+    height: 420px;
+    display: block;
+    position: relative;
+    top:-98px;
+    left: 150px;
+}
+.lisHorGrande{
+    width: 600px;
+    height: 210px;
+}
+.lisHorGrande2{
+    width: 600px;
+    height: 210px;
+    position: relative;
+    top: 105px;
+}
+.lisHorFina{
+    width: 600px;
+    height: 10px;
+    display: block;
+    position: relative;
+    top: 140px;
+}
+.lisHorFina2{
+    width: 600px;
+    height: 10px;
+    display: block;
+    position: relative;
+    top: 270px;
+}
+
+.lisVert{
+    width: 420px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+}
+.lisVert2{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+ }
+.lisVert3{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    left: 230px;
+}
+.lisHor3{
+    width: 600px;
+    height: 100px;
+    position: relative;
+    top: -250px;
+}
+.lisVert4{
+    width: 100px;
+    height: 420px;
+    position: relative;
+    top: -100px;
+    left: 150px;
+
+}
+.corAzulForte{
+    background-color: blue;
+}
+.corBranco{
+    background-color: white;
+}
+.corVermelho{
+    background-color: red;
+}
+.corAmarelo{
+    background-color: yellow;
+}
+.corPreto{
+    background-color: black;
+}
+.corVerde{
+    background-color: forestgreen;
+}
+.corAzul{
+    background-color: rgb(59, 59, 237);
+}
